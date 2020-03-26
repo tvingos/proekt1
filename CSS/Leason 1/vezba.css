@@ -1,0 +1,74 @@
+header{
+    width: 100%;
+    height: 150px;
+    background: red;
+}
+
+.slogan{
+    width: 100%;
+    height: 400px;
+    background: green;
+}
+
+.blocks{
+    width: 100%;
+}
+
+.single_block {
+    height: 80px;
+    width: 25%;
+    float: left;
+}
+
+.brown{
+    background: brown;
+}
+
+.yellow{
+    background: yellow;
+}
+
+.blue{
+    background: blue;
+}
+
+.black{
+    background: black;
+}
+
+.section{
+    width: 100%;
+    height: 500px;
+}
+
+.section_left{
+    width: 50%;
+    background: aqua;
+    height: 100%;
+    float: left;
+}
+
+.section_right{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.section_right_top {
+    width: 100%;
+    height: 40%;
+    background: darkred;
+}
+
+.section_right_bottom {
+    width: 100%;
+    height: 60%;
+    background: darkgreen;
+}
+
+footer{
+    widows: 100%;
+    height: 200px;
+    background: grey;
+}
+

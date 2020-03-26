@@ -1,0 +1,55 @@
+body {
+  margin: 200px;
+  background: #e8e8e8;
+}
+a {
+  text-decoration: none;
+  color: gray;
+}
+.single_item {
+  width: 350px;
+  background: white;
+}
+.single_item_top {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+.single_item_top img {
+  width: auto;
+  height: 100%;
+}
+.single_item_bottom {
+  padding: 30px;
+}
+.link_holder {
+  font-size: 14px;
+  color: #a2a2a2;
+  margin-top: 15px;
+}
+.title_description a h2 {
+  font-size: 28px;
+  margin: 0;
+  padding: 0 10px;
+  margin-left: 20px;
+}
+.title_description p {
+  font-size: 15px;
+  color: #888;
+  margin-top: 15px;
+  padding: 0 10px;
+  margin-left: 20px;
+}
+.comments {
+  width: 100%;
+}
+.comment_icon i {
+  font-size: 30px;
+  color: red;
+}
+.right {
+  float: right;
+}
+.tags a {
+  font-size: 14px;
+}
